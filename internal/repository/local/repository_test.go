@@ -1,4 +1,4 @@
-package repository
+package local
 
 import (
 	"github.com/AndreySuhonosov/calendar/internal/domain"
